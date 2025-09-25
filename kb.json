@@ -1,0 +1,7 @@
+{
+  "billing": "For billing issues, please check your invoice or contact billing@company.com.",
+  "technical": "For technical issues, restart the application or contact techsupport@company.com.",
+  "account": "For account issues, reset your password or contact accounts@company.com.",
+  "refund": "For refund requests, submit your request via refunds@company.com.",
+  "shipping": "For shipping issues, check tracking or contact shipping@company.com."
+}
